@@ -1,2 +1,2 @@
-# step-second
-step Savchenko and Komenda
+# part-2
+step Komenda
